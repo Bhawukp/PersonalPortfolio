@@ -56,13 +56,12 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Meritculation from Ryan Intenational School Chandigarh', },
-
-  { year: 2019, text: 'Intermediate from GMSSS 33 Chandigarh', },
-  { year: 2019, text: 'Started my journey in the coding web', },
-  { year: 2020, text: ' Member wipro Nasscom Futue Skills ', },
-
-  { year: 2021, text: 'Shared my projects to the world', },
-  { year: 2021, text: 'Joined Microsoft Azure Developer League', }
-  
+  { year: 2017, text: 'Matriculated from Ryan International School, Chandigarh.' },
+  { year: 2019, text: 'Completed intermediate from GMSSS 33, Chandigarh; began coding journey.' },
+  { year: 2020, text: 'Joined Wipro–NASSCOM Future Skills program.' },
+  { year: 2021, text: 'Shared projects online; joined Microsoft Azure Developer League.' },
+  { year: 2022, text: 'Started career as Software Engineer Intern in media streaming domain.' },
+  { year: 2023, text: 'Promoted to Software Engineer; built Smart TV and web apps using React.' },
+  { year: 2024, text: 'Optimized app performance and user experience across platforms.' },
+  { year: 2025, text: 'Exploring AI-assisted development and system design.' }
 ];

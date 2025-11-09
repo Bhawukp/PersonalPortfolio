@@ -13,9 +13,9 @@ const Hero = (props) => (
 
       </SectionTitle>
       <SectionText>
-        Hello My name is Bhawuk Pahuja .I am a 3rd year CSE student at Chitkara University and currently pursuing specialization in Full Stack Development.
-        <br/>
-        Please allow me to present you CREATIVE ME!
+        I'm <strong>Bhawuk Pahuja</strong>, a <strong>Software Engineer</strong> building
+        high-performance <strong>React</strong> apps for <strong>Smart TVs</strong> and the web.
+        Passionate about clean design, speed, and innovation.
       </SectionText>
       <Button onClick={()=> window.location="https://www.linkedin.com/in/bhawuk-pahuja-1110"}>Learn More</Button>
     </LeftSection>

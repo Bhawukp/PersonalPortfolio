@@ -46,10 +46,12 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        As a Full Stack Enthusiast I consider myself as being a webpage,I am moldable and I keep my creative flare intact.
-        <br/>
-        I love coding and I strongly believe that technology can greatly help in solving day to problems thereby creates a significant impact in transforming the lives of the people.<br/>
-        I Like working on personal projects providing creative solutions to day to day problems.
+        I love building products that blend <strong>performance</strong> and <strong>user experience</strong>.
+        Over the past few years, I’ve worked on media streaming apps for Smart TVs and browsers — solving
+        real-world challenges in rendering, performance, and design.
+        <br/><br/>
+        Always curious and learning, I’m now exploring <strong>AI-assisted development</strong> and
+        <strong>system design</strong> to craft smarter front-end solutions.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
